@@ -38,9 +38,9 @@
 
 1. 画面右上の三点リーダー（…）をクリックします
 2. ** 「Delete file」 ** を選択します
-   ![img.png](img.png)
+   ![img.png](docs/img_3.png)
 3. **　「Commit changes」** ボタンをクリックします
-   ![img_1.png](img_1.png)
+   ![img_1.png](docs/img_4.png)
 4. 必要に応じてコメント欄に「画像を削除しました」などのメッセージを入力します
 5. **「Commit changes」** ボタンをクリックして削除完了です
    ![img_2.png](docs/img_2.png)
