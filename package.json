@@ -1,0 +1,25 @@
+{
+  "name": "png6-poster-img",
+  "version": "1.0.0",
+  "description": "PNG6で使用するポスター画像URLを提供するリポジトリ",
+  "main": "scripts/create-atlas.js",
+  "scripts": {
+    "build": "node scripts/create-atlas.js",
+    "dev": "node scripts/create-atlas.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "image",
+    "atlas",
+    "vrchat",
+    "poster"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
